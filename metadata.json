@@ -1,0 +1,6 @@
+{
+  "name": "2025 희망찬 자치시민 생활안정 지원금",
+  "description": "희망찬 자치시 공식 공공지원사업 포털 - 2025 희망찬 자치시민 생활안정 지원금 안내 및 온라인 간편 신청",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
